@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 5454e6a30c2e87b42b6e97b4150cca03
+timeCreated: 1502464947
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _VectorLut: {fileID: 2800000, guid: afed748004138794b89559158c54b10b, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
